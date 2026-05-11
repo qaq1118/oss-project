@@ -1,0 +1,31 @@
+Last login: Sun May 10 01:31:05 on ttys001
+(base) kimeunbi@gim-eunbiui-MacBookPro ~ % mkdir oss_project && cd oss_project
+(base) kimeunbi@gim-eunbiui-MacBookPro oss_project % mkdir oss_project && cd oss_project
+(base) kimeunbi@gim-eunbiui-MacBookPro oss_project % vi project1.sh
+(base) kimeunbi@gim-eunbiui-MacBookPro oss_project % chmod +x project1.sh
+(base) kimeunbi@gim-eunbiui-MacBookPro oss_project % ./project1.sh spotify_tracks.tsv
+***************************
+* StudentID : 202612345   *
+* Name : Lee Jung-mo      *
+***************************
+
+[MENU]
+1. Search tracks by artist name and track name
+2. List top 5 tracks by popularity in a specific genre
+3. Show top 5 longest tracks by duration
+4. Merge duplicate tracks and combine genres
+5. Analyze tracks - count, avg danceability, energy, valence
+6. Quit
+Enter your COMMAND (1~6) : 1
+Run Search tracks...
+
+[MENU]
+1. Search tracks by artist name and track name
+2. List top 5 tracks by popularity in a specific genre
+3. Show top 5 longest tracks by duration
+4. Merge duplicate tracks and combine genres
+5. Analyze tracks - count, avg danceability, energy, valence
+6. Quit
+Enter your COMMAND (1~6) : 6
+Bye!
+(base) kimeunbi@gim-eunbiui-MacBookPro oss_project % 
